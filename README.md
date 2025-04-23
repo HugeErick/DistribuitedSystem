@@ -4,6 +4,10 @@
 
 This is a simple Java CRUD terminal application that demonstrates a distributed database system using CockroachDB. The application allows users to manage a movie database with basic operations (Create, Read, Update, Delete) through a terminal interface. CockroachDB provides the distributed database functionality with vertical fragmentation across multiple regions.
 
+> [!IMPORTANT]
+> [SQL used in the proyect](src/CREATE_DATABASE.sql)
+
+
 ## Table of contents
 - [Installation](#installation)
 - [Usage](#usage)
